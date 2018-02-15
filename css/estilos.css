@@ -1,0 +1,75 @@
+li{
+    margin-bottom: 1em;
+}
+
+.cabecera {
+
+    margin-bottom: 0;
+}
+
+.content{
+    margin-left: 1em;
+}
+
+.etiquetas{
+    margin: 1em 0;
+}
+
+.logoweb{
+    width: 90px;
+    margin-bottom: 1em;
+}
+
+.articuloTop{
+    margin-top: 2em;
+}
+
+.comentario{
+    margin-top: 2em;
+    margin-bottom: 4em;
+}
+
+.nav{
+    height: 110vmax;
+}
+
+.opcion{
+    padding-left: 0.5em;
+}
+
+.opcion a{
+    padding-left: 0.3em;
+}
+
+.foot{
+    margin-top: 2.5em;
+    margin-bottom: 0;
+}
+
+.post{
+    border-radius: 0.2em;
+    margin-top: 0;
+    padding: 0.4em;
+}
+
+.fecha-pub{
+    font-size: 12px;
+}
+
+.fecha-post{
+    font-size: 12px;
+}
+
+h5{
+    margin-bottom: 0;
+}
+
+.publicacion{
+    border-radius: 0.2em;
+    padding: 0.1em 0;
+}
+
+.publicacion img{
+    width: 90px;
+    margin-bottom: 0.5em;
+}
